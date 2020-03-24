@@ -13,6 +13,12 @@ body {
 	font-weight:400;
 	overflow-x:hidden;
 }
+ul { text-align: center;
+
+}
+.row {
+	text-align: center;
+}
 .playball {
 	font-family:'Playball',cursive;
 }
@@ -34,9 +40,8 @@ img {max-width: 100%;}
 	width:100%;
 }
 .menu {
-	margin-top:0px;
+	margin-top:-100px;
 	position:absolute;
-	z-index:999;
 	left:0px;
 	right:0px;
 	bottom:0;
